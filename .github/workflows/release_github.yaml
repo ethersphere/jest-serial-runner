@@ -16,5 +16,5 @@ jobs:
         with:
           token: ${{ secrets.GHA_PAT_BASIC }}
           release-type: node
-          package-name: @ethersphere/jest-serial-runner
+          package-name: "@ethersphere/jest-serial-runner"
           bump-minor-pre-major: true
