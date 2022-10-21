@@ -7,6 +7,10 @@ Useful for integration tests.
 
 # Usage
 
-``` npm install jest-serial-runner --save-dev```
+``` npm install @ethersphere/jest-serial-runner --save-dev```
 
-Add ``` "runner": "jest-serial-runner" ``` in your jest config
+Add ``` "runner": "@ethersphere/jest-serial-runner" ``` in your jest config
+
+# Credit
+
+Credit to @codejedi365 and @gabrieli that developed the original solution.
