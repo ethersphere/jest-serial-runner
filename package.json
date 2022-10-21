@@ -1,6 +1,6 @@
 {
   "name": "@ethersphere/jest-serial-runner",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "description": "Extending the Jest default runner to run tests serially - useful for integration tests",
   "main": "index.js",
   "files": [
